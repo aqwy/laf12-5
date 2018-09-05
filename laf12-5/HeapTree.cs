@@ -191,7 +191,6 @@ namespace laf12_5
             int nBlanks = 32;
             int itemsPerRow = 1;
             int column = 0;
-            int j = 0; // current item
             String dots = "...............................";
             Console.WriteLine(dots + dots); // dotted top line
             queue.Enqueue(root);

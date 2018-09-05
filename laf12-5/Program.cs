@@ -71,7 +71,6 @@ namespace laf12_5
                         break;
                 } // end switch
             }
-
             Console.ReadLine();
         }
     }
